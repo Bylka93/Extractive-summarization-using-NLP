@@ -1,2 +1,2 @@
 # Extractive-summarization-using-NLP
-Extractive summarization using sentience score
+Simple extractive summarization code using sentience score approach.
